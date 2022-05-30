@@ -4,4 +4,4 @@ Tutorial de uso das ferramentas Git e Github
 ## Autor:
 Felipe de Almeida Duarte
 ## Playlist
-[iniciar tutorial](https://www.youtube.com/watch?v=FF1f4bKYhoo)
+[iniciar tutorial](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
